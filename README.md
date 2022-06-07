@@ -1,8 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-# Website
+### My name is Fabio,
+
+I am a web developer, and engineer graduate from University of Waterloo. I've always had a passionate for programming and working with new technologies. If you are reading this, I am currently seeking new exciting opportunities.
+
+- 🔭 I’m currently working on a full stack application called Tasktify   
+(Typscript, React, Express, hosted on Gatsby and Heroku)
+
+## Links
 
 [My Portfolio](http://fabio-portfolio.herokuapp.com/)
+
+📫 How to reach me:
+Email: [fchoi@outlook.com](mailto:fchoi@outlook.com)
+
 <!--
 **fchoi1/fchoi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
