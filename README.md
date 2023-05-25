@@ -9,7 +9,7 @@ I am a web developer, and engineer graduate from University of Waterloo. I've al
 
 ## Links
 
-[My Portfolio](http://fabio-portfolio.herokuapp.com/)
+[My Portfolio](https:/fwchoi.com/)
 
 📫 How to reach me:
 Email: [fchoi@outlook.com](mailto:fchoi@outlook.com)
