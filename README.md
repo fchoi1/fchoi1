@@ -4,8 +4,8 @@
 
 I am a web developer, and engineer graduate from University of Waterloo. I've always had a passionate for programming and working with new technologies. If you are reading this, I am currently seeking new exciting opportunities.
 
-- 🔭 I’m currently working on a full stack application called Taskaroo   
-(Typscript, NextJs, React, Express, hosted on Heroku)
+- 🔭 I’m currently working on a full stack application called [Taskaroo](https://github.com/fchoi1/Taskaroo)     
+(Typscript, NextJs, React, Express, SQL, NodeJS, hosted on Heroku)
 
 ## Links
 
