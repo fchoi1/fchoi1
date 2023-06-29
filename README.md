@@ -11,6 +11,12 @@ I am a web developer, and engineer graduate from University of Waterloo. I've al
 
 [My Portfolio](https://www.fwchoi.com/)
 
+<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer">
+  <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchoi1&layout=compact&langs_count=14&theme=vue-dark" 
+      alt="Top Languages Used" />
+</a>
+
 📫 How to reach me:
 Email: [fchoi@outlook.com](mailto:fchoi@outlook.com)
 
