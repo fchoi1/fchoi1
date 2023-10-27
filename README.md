@@ -6,7 +6,7 @@ I am a web developer, and engineer graduate from University of Waterloo. I've al
 
 - 🔭 I’m currently working on a full stack application called [Taskaroo](https://github.com/fchoi1/Taskaroo)     
 (Typscript, NextJs, React, Express, SQL, NodeJS, hosted on Heroku)
-- Also doing the [Advent of Code 2022](https://github.com/fchoi1/Advent-2022)
+- Also doing the [Advent of Code](https://github.com/fchoi1/Advent-2022)
 
 ## Links
 
