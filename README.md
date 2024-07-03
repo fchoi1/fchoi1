@@ -30,6 +30,6 @@ Email: [fchoi@outlook.com](mailto:fchoi@outlook.com)
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fchoi1&theme=vue-dark"/>
 
-<p align="center"><img width="65%" src="https://streak-stats.demolab.com?user=fchoi1&theme=vue-dark" /></p>
+<p align="center"><img width="65%" src="https://streak-stats.demolab.com?user=fchoi1&theme=vue-dark"/> </p>
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fchoi1&theme=vue&bg_color=20232a&hide_border=true" width="100%"/>
