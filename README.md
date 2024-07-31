@@ -12,6 +12,7 @@ Learn more about me here: [My Portfolio](https://www.fwchoi.com/)
 
 ## Languages
 
+- Ruby
 - Python
 - Javascript/Node
 - Typescript
