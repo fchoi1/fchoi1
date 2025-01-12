@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=fchoi1" alt="Profile View" />
+
 ## Hi There👋 
 
 ### My name is Fabio,
@@ -27,4 +29,5 @@ Email: [fchoi@outlook.com](mailto:fchoi@outlook.com)
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fchoi1&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"/></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=fchoi1&theme=vue-dark&show_icons=true&hide_border=false&hide_rank=true&include_all_commits=true&hide=contribs"/></p>
 <p align="center"><img  src="https://streak-stats.demolab.com?user=fchoi1&theme=vue-dark" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=fchoi1&theme=vue-dark" alt="GitHub Streak" /></p>
 <p align="center"><img  src="https://github-readme-activity-graph.vercel.app/graph?username=fchoi1&theme=vue&hide_border=false/" width="100%""/></p>
