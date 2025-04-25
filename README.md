@@ -8,6 +8,7 @@ I'm a software engineer. I've always had a passionate for programming and workin
 
 - 🔭 I’m currently working on a full stack application called [Taskaroo](https://github.com/fchoi1/Taskaroo)     
 (Typscript, NextJs, React, Express, SQL, NodeJS, hosted on Heroku)
+
 - Also doing the [Advent of Code](https://github.com/fchoi1/Advent-2022)
 
 Learn more about me here: [My Portfolio](https://www.fwchoi.com/)
