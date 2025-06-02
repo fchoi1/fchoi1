@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=fchoi1" alt="Profile View" />
 
-## Hello There👋
+## Hello There 👋
 
 ### My name is Fabio,
 
